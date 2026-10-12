@@ -1,7 +1,8 @@
 title: phomv
 description: High-performance CLI that organizes photos into a YYYY/YYYY_MM/YYYY_MM_DD hierarchy from EXIF metadata.
-url: https://phomv.github.io
-github_repo: https://github.com/phomv/phomv
+url: https://chinny-labs.github.io
+baseurl: /phomv-docs
+github_repo: https://github.com/chinny-labs/phomv
 
 defaults:
   - scope:

@@ -1,6 +1,6 @@
-# phomv.github.io
+# phomv-docs
 
-Source for the phomv documentation site at <https://phomv.github.io>.
+Source for the phomv documentation site at <https://chinny-labs.github.io/phomv-docs/>.
 
 This is a minimal Jekyll site using the built-in `jekyll-theme-minimal`
 theme — GitHub Pages builds it automatically on every push to `main`. No
@@ -23,4 +23,4 @@ bundle exec jekyll serve
 - `_config.yml` — site config + theme
 - `assets/` — logos and favicons
 
-Project source: <https://github.com/phomv/phomv>
+Project source: <https://github.com/chinny-labs/phomv>

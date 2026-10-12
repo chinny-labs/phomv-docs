@@ -13,7 +13,7 @@ and decoupled enough that the same core engine can later back a GUI.
 - [Install](install.html) — Homebrew, winget, pre-built binaries, or `go install`.
 - [Usage / quick start](usage.html) — `phomv copy` / `phomv move` with flags.
 - [How the date hierarchy works](hierarchy.html) — EXIF/QuickTime dates, mtime fallback, sidecars, `Unknown/` bucket.
-- [Source on GitHub](https://github.com/phomv/phomv) — issues, releases, contributing.
+- [Source on GitHub](https://github.com/chinny-labs/phomv) — issues, releases, contributing.
 
 ## Why phomv
 
